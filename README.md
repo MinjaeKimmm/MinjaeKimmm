@@ -22,14 +22,12 @@ const minjae = {
             databases: ["MongoDB", "PostgreSQL", "MySQL"]
         },
         infra: {
+            cloud: ["AWS", "Oracle"],
             virtualization: ["Proxmox"],
             networking: ["Wireguard", "OpenWRT"],
-            containerization: ["Docker", "Kubernetes"]
-        },
-        devOps: {
-            cloud: ["AWS", "Oracle"],
-            ci/cd: ["GitHub Actions"],
-            reverse-proxy: ["Nginx", "Caddy", "Traefik"]
+            containerization: ["Docker", "Kubernetes"],
+            cicd: ["GitHub Actions"],
+            reverseProxy: ["Nginx", "Caddy", "Traefik"]
         },
         llm: {
             frameworks: ["LangChain", "LlamaIndex"],
@@ -38,11 +36,6 @@ const minjae = {
         web3: {
             languages: ["Solidity", "Sui"],
             libraries: ["ethers.js", "web3-react"],
-        },
-        3d: {
-            webgl: ["Three.js"],
-            animation: ["GSAP"],
-            modeling: ["Blender"]
         }
     }
 };
