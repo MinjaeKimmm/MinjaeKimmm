@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kiminjae.me-blue)](https://kiminjae.me)
 [![Blog](https://img.shields.io/badge/Blog-blogs.kiminjae.me-blue)](https://blogs.kiminjae.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MinjaeKimmm-blue)](https://linkedin.com/in/MinjaeKimmm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MinjaeKimmm-blue)](https://linkedin.com/in/kiminjae)
 
 ## aboutMe.js
 
